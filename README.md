@@ -1,48 +1,28 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Erros e acertos na tentativa de se fazer um e-book utilizando IA;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+O projeto consistiu na criação de um e-book literário a partir de um conto. 
+Utilizou-se a IA para fazer a tradução do conto para o inglês, fazer a correção gramatical, além da ilustração da capa. 
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+1- Leonard.ai para fazer a ilustração da capa;
+2-Chatgpt para escrever o prefácio a partir da leitura do conto;
+3-Sider/chatgpt para fazer a tradução;
+4-Canva para fazer a montagem do e-book.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+A partir de um conto já escrito, utilizei o chatgpt para fazer a correção gramatical, além de utilizá-lo para fazer a leitura do conto e fazer um cometário, que utilizei como prefácio. Em seguida, utilizei
+ferramenta sider para a tradução do texto em português para o inglês. Depois, utilizei o Leonard.ai para fazer a ilustração da capa. Por fim, utilizei o canva para montar o e-book.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O e-book montado com o auxílio da IA Generativa mostra que cada vez estamos mais independentes para criar conteúdo e colocar a serviço de muitas pessoas. 
+Link: https://www.canva.com/design/DAGWg041FQ4/t2eItAdTu0a3nPQ-wPD2LA/view?utm_content=DAGWg041FQ4&utm_campaign=designshare&utm_medium=link&utm_source=editor
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
 ```
 
-### Exemplos e Insigths
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
 
 ## Links Interessantes
 
